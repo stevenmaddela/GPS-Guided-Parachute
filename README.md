@@ -7,10 +7,15 @@ The core functionality involved custom making a parachute for rocket recovery wh
 Key Features:
 
 Arduino Control: The heart of our system, the Arduino microcontroller, coordinated and executed the recovery process based on real-time sensor data.
+
 Magnetometer and Barometer: We integrated a magnetometer for accurate directional sensing and a barometer to measure altitude, allowing precise monitoring of the rocket's descent.
+
 GPS Tracking: A GPS module was incorporated to determine the rocket's exact location, facilitating a guided return trajectory to the launch site.
+
 LCD Display: To enhance user interaction and provide real-time information, we integrated an LCD display, offering critical data such as altitude, distance to home, direction of home, and GPS coordinates during the recovery phase.
+
 Servo Mechanism: A servo motor was employed to control the length of the left and right parachute control strings by pulling on either the left or right control strings, ensuring a controlled descent and enabling adjustments based on sensor inputs for left turns, right turns, and forward movement.
+
 Custom PCB Design: We designed and manufactured a custom printed circuit board (PCB) to connect and organize the various modules efficiently, optimizing space within the limited confines of the rocket's nose cone.
 
 Outcome:
