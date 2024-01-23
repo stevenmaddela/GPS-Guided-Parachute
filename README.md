@@ -19,6 +19,7 @@ Servo Mechanism: A servo motor was employed to control the length of the left an
 Custom PCB Design: We designed and manufactured a custom printed circuit board (PCB) to connect and organize the various modules efficiently, optimizing space within the limited confines of the rocket's nose cone.
 
 Outcome:
+
 The Automated Parachute Recovery System successfully demonstrated its capabilities in multiple test launches. The precise control afforded by the integrated technologies ensured a targeted descent, contributing to the successful recovery of our model rockets. The custom PCB design not only facilitated compact integration but also allowed for scalability and future enhancements.
 
 This project represents a significant advancement in rocket recovery systems, showcasing the potential for guided parachute solutions in the realm of amateur rocketry and aerospace engineering instead of guided rockets themselves.
